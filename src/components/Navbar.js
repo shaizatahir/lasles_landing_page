@@ -16,16 +16,16 @@ const Navbar = () => {
 
       
       <nav className='nav_links'>
-        <a href=''>Home</a>
-        <a href=''>Features</a>
-        <a href=''>Pricing</a>
-        <a href=''>Testimonials</a>
-        <a href=''>Help</a>
+        <a href='/'>Home</a>
+        <a href='/'>Features</a>
+        <a href='/'>Pricing</a>
+        <a href='/'>Testimonials</a>
+        <a href='/'>Help</a>
 
       </nav>
 
       <div className='nav_buttons'>
-        <a href=''>Sign In</a>
+        <a href='/'>Sign In</a>
         <button className='signUp'>Sign Up</button>
       </div>
       <div className='smallscreen'>
@@ -37,11 +37,11 @@ const Navbar = () => {
       </div>
       <div className='responsive_nav_links'>
       <ul>
-        <li><a href=''>Home</a></li>
-        <li><a href=''>Features</a></li>
-        <li><a href=''>Pricing</a></li>
-        <li><a href=''>Testimonials</a></li>        
-        <li><a href=''>Help</a></li>        
+        <li><a href='/'>Home</a></li>
+        <li><a href='/'>Features</a></li>
+        <li><a href='/'>Pricing</a></li>
+        <li><a href='/'>Testimonials</a></li>        
+        <li><a href='/'>Help</a></li>        
 
       </ul>
       </div>
